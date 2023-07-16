@@ -1,0 +1,26 @@
+/* navbar.css */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f2f2f2;
+    padding: 15px;
+  }
+  
+  .first {
+    display: flex;
+    gap: 10px; /* Add a gap of 10 pixels between the components */
+  }
+  
+  .first a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .second a {
+    text-decoration: none;
+    color: #333;
+  }
+  
